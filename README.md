@@ -8,7 +8,7 @@ Versão light
 dark
 ![image](https://user-images.githubusercontent.com/118542381/236821011-9a7ba9a9-d71e-48b9-906c-96ca99618073.png)
 
-apenas BCT
+apenas BTC
 ![image](https://user-images.githubusercontent.com/118542381/236821066-5cb93c4a-bf68-4a3d-86b8-8b901ce88d6e.png)
 
 apenas ETH
